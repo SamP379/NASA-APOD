@@ -12,5 +12,5 @@ learning how to store API keys securely using environment variables.
 ## Instructions
 
 Clone the git repo and run main.py. You will also need to obtain an
-api key for NASA's open APIs and then created a .env file in the 
-project directory and add your API key.  
+api key for NASA's open APIs and then create a .env file in the 
+project directory and add your API key.
