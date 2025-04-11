@@ -2,7 +2,8 @@ from apod import APOD
 
 
 def main():
-    pass
+    apod = APOD()
+    apod.display()
 
 
 if __name__ == "__main__":
