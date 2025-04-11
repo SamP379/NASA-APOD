@@ -2,7 +2,7 @@
 
 ## A Python program to view NASA's Astronomoy Picture of the Day
 
-This is a Python program to view NASA's APOD using the APOD API.
+This is a Python program to get and display NASA's APOD using the APOD API.
 The project was a good chance to practise working with APIs and 
 learning how to store API keys securely using environment variables.
 
