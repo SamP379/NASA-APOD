@@ -7,7 +7,7 @@ The project was a good chance to practise working with APIs and
 learning how to store API keys securely using environment variables.
 
 ## Demo
-![alt text](image.png)
+![alt text](images/demo.png)
 
 ## Instructions
 
